@@ -15,7 +15,7 @@ async function main() {
   const result = await bankingFactory.getMultiCooperateBank();
   console.log(result);
 
-
+ 
   
 }
 
